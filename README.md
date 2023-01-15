@@ -1,2 +1,1 @@
-# The X bot for discord's channels
-Discord Bot
+# The X Bot for Discord
